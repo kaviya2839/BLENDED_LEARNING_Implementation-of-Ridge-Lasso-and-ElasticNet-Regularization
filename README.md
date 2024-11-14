@@ -1,5 +1,5 @@
 # BLENDED_LEARNING
-# Implementation of Ridge, Lasso, and ElasticNet Regularization for Predicting Car Price
+# EX 05 Implementation of Ridge, Lasso, and ElasticNet Regularization for Predicting Car Price
 
 ## AIM:
 To implement Ridge, Lasso, and ElasticNet regularization models using polynomial features and pipelines to predict car price.
