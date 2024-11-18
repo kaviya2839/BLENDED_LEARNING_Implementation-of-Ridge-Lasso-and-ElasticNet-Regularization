@@ -1,4 +1,3 @@
-# BLENDED_LEARNING
 # EXP-05 Implementation of Ridge, Lasso, and ElasticNet Regularization for Predicting Car Price
 
 ## AIM:
